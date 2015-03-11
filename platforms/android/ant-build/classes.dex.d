@@ -1,0 +1,26 @@
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes.dex : \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\ca\edumedia\cook0246\Framework\BuildConfig.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\ca\edumedia\cook0246\Framework\CordovaApp.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\ca\edumedia\cook0246\Framework\R$attr.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\ca\edumedia\cook0246\Framework\R$drawable.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\ca\edumedia\cook0246\Framework\R$string.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\ca\edumedia\cook0246\Framework\R$xml.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\ca\edumedia\cook0246\Framework\R.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\com\example\hello\BuildConfig.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\com\example\hello\CordovaApp.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\com\example\hello\R$attr.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\com\example\hello\R$drawable.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\com\example\hello\R$string.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\com\example\hello\R$xml.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\com\example\hello\R.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactInfoDTO.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$1.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$2.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$3.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$4.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\Devon\Desktop\Cordova Projects\hello\platforms\android\ant-build\dexedLibs\classes-2d380c68ea796e817d96684429f3df5e.jar \

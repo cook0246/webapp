@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class ca.edumedia.cook0246.Framework.CordovaApp { <init>(...); }
+
